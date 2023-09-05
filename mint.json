@@ -1,0 +1,70 @@
+{
+  "name": "Pure",
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#27c660",
+    "light": "#3EEC7C",
+    "dark": "#27c660"
+  },
+  "topbarCtaButton": {
+    "name": "Explore Now",
+    "url": "https://www.collectpure.com/browse"
+  },
+  "topbarLinks": [
+    {
+      "name": "Login",
+      "url": "https://www.collectpure.com/signup"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Marketplace",
+      "icon": "shop",
+      "url": "https://www.collectpure.com/browse"
+    }
+  ],
+  "navigation": [
+    {
+        "group": "Introduction",
+        "pages": [
+          "pure-technologies/introduction"
+        ]
+      },
+      {
+        "group": "Quick Start",
+        "pages": [
+          "pure-technologies/quick-start/getting-set-up",
+          "pure-technologies/quick-start/scanning-basics"
+        ]
+      },
+      {
+        "group": "Products",
+        "pages": [
+          "pure-technologies/products/pricing-module",
+          "pure-technologies/products/toning-module-obverseai",
+          "pure-technologies/products/inventory-tracking"
+        ]
+      },
+      {
+        "group": "Change Logs",
+        "pages": [
+          "pure-technologies/change-logs/updates"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "pure-technologies/support/contact"
+        ]
+      }
+  ],
+  "footerSocials":
+    {
+        "instagram": "https://www.instagram.com/purenumismatics/",
+        "twitter": "https://www.twitter.com/collectpure/"
+    }
+}
